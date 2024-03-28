@@ -5,7 +5,7 @@
   "@context": "http://schema.org",
   "@type": "Dataset",
   "name": "Europarl-ASR",
-  "description": "A 1300-hour English-language speech and text corpus of parliamentary debates for (streaming) ASR training and benchmarking, speech data filtering and speech data verbatimization.",
+  "description": "A 1300-hour English-language speech and text corpus of parliamentary debates for streaming ASR training and benchmarking, speech data filtering and speech data verbatimization.",
   "temporalCoverage": "1996 to 2020",
   "spatialCoverage": "European Parliament",
   "version": "v1.0",
@@ -27,7 +27,7 @@ Europarl-ASR v1.0
 [www.mllp.upv.es/europarl-asr](https://www.mllp.upv.es/europarl-asr)
 
 A 1300-hour English-language speech and text corpus of parliamentary debates for
-(streaming) ASR training and benchmarking, speech data filtering and speech data verbatimization.
+streaming ASR training and benchmarking, speech data filtering and speech data verbatimization.
 
 Keywords: automatic speech recognition; speech corpus; speech data filtering;
 speech data verbatimization.
@@ -290,7 +290,7 @@ EXTENDED DESCRIPTION
 --------------------
 
 Europarl-ASR (EN) is a large English-language speech and text corpus of
-parliamentary debates for (streaming) ASR benchmarking and speech data
+parliamentary debates for streaming ASR benchmarking and speech data
 filtering/verbatimization, including 1300 hours of annotated English-language
 speeches from European Parliament sessions held in the period 1996-2020.
 
