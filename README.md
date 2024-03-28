@@ -1,4 +1,5 @@
 <!-- Etiquetatge JSON-LD generat per l'Assistent per a l'etiquetatge de dades estructurades de Google. -->
+<!--
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -18,6 +19,7 @@
   "datePublished": "2021-04-02"
 }
 </script>
+-->
 
 # Europarl-ASR
 Europarl-ASR v1.0  
