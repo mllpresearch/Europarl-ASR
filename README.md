@@ -30,7 +30,7 @@ A 1300-hour English-language speech and text corpus of parliamentary debates for
 streaming ASR training and benchmarking, speech data filtering and speech data verbatimization.
 
 Keywords: automatic speech recognition; speech corpus; speech data filtering;
-speech data verbatimization.
+speech data verbatimization; streaming ASR.
 
 CONTACT:
 Gonçal V. Garcés Díaz-Munío (gogardia@vrain.upv.es),
